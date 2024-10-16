@@ -1,15 +1,15 @@
-# Software Requirements Specification
-## For <project name>
+# 스프트웨어 요구사항 명세서
+## <project name>
 
 Version 0.1  
-Prepared by <author>  
-<organization>  
-<date created>  
+작성자: <author>  
+<회사명>  
+<날짜 created>  
 
-Table of Contents
+목 차
 =================
-* [Revision History](#revision-history)
-* 1 [Introduction](#1-introduction)
+* [개정 이력](#revision-history)
+* 1 [개요](#1-introduction)
   * 1.1 [Document Purpose](#11-document-purpose)
   * 1.2 [Product Scope](#12-product-scope)
   * 1.3 [Definitions, Acronyms and Abbreviations](#13-definitions-acronyms-and-abbreviations)
@@ -46,14 +46,14 @@ Table of Contents
 * 4 [Verification](#4-verification)
 * 5 [Appendixes](#5-appendixes)
 
-## Revision History
+## 개정 이력
 | Name | Date    | Reason For Changes  | Version   |
 | ---- | ------- | ------------------- | --------- |
 |      |         |                     |           |
 |      |         |                     |           |
 |      |         |                     |           |
 
-## 1. Introduction
+## 1. 개요
 > This section should provide an overview of the entire document
 
 ### 1.1 Document Purpose
